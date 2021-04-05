@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "2.0.3",
           "category": "Contributed",
-		  "url": "https://github.com/AlexGyver/GyverCore/releases/download/GyverCore-2.0.3/GyverCore.zip",
+		  "url": "https://github.com/kiterservice/GyverCore/blob/b50cb6a3fc0d039a817ab27a353dd8f1517ce51f/Release%20v2.0.3/GyverCore_win64.zip",
           "archiveFileName": "GyverCore.zip",
           "checksum": "MD5:f489031993c5cf1827f8bc8a95225a83",
           "size": "590501970",
